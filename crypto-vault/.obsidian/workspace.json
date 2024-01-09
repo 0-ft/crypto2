@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "1546269b568e84a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b4377afe744a712",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff8e5593234f5d94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ALL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8860d3f42477d436",
+    "type": "split",
+    "children": [
+      {
+        "id": "05fa2c6cd167529c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22755e92df145e7f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2e1cdd377b230eed",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "perfect secre",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ea60d4c453ba5e56",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "09b45ac8d2befa89",
+    "type": "split",
+    "children": [
+      {
+        "id": "943f2f10e25cb212",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "865e0d6127b77b6f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ALL.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "852a0efe1dd3c213",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ALL.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "52b59830eadf028b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "80c4ec2072304ac6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ALL.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ff8e5593234f5d94",
+  "lastOpenFiles": [
+    "Cryptology Lecture 1.md",
+    "Cryptology Lecture 2.md",
+    "Cryptology Lecture 5.md",
+    "RSA.md",
+    "ElGamal Encryption.md",
+    "Digital Signatures.md",
+    "Definitions.md",
+    "Cryptology Lecture 7.md",
+    "Cryptology Lecture 3.md",
+    "Cryptology Lecture 6.md",
+    "Diffie-Hellman Key Exchange.md",
+    "Cryptographic Scheme Complexity.md",
+    "ALL.pdf",
+    "ALL.md",
+    "Welcome.md",
+    "To Learn.md",
+    "Pasted image 20231230134144.png",
+    "Untitled 1.md",
+    "Untitled.md"
+  ]
+}
